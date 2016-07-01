@@ -34,5 +34,5 @@
 	<?php
 		// SVG Sprite for symbols. Make sure this is `display: none`!
 		// https://css-tricks.com/svg-sprites-use-better-icon-fonts/#article-header-id-1
-		include_once(get_stylesheet_directory() . '/assets/images/sprites/symbols.svg');
+		echo file_get_contents(get_stylesheet_directory() . '/assets/images/sprites/symbols.svg');
 	?>
