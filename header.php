@@ -9,8 +9,8 @@
 	<title><?php wp_title('&raquo;','true','right'); ?></title>
 
   	<script>
-		// Place Google Analytics code here - note that any <noscript> iframes
-		// will break <head>, so include it after <body> if you need that snippet
+		// Place Google Analytics code here - note that any `noscript` iframes
+		// will break `head`, so include it after `body` if you need that snippet
 
 		// Set up site configuration
 		window.config = window.config || {};
