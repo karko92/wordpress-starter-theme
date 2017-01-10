@@ -1,0 +1,4 @@
+{
+  "extends": "airbnb",
+  "no-use-before-define": "nofunc"
+}
